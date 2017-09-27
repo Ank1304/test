@@ -1,19 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Ank1304/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can use my github page to browse for content related to technology. We can talk about Robotics, Programming, Computer security, Cloud, Web apps, Mobile apps, Networks, Lumped Circuit Abstraction, Solar Photo voltiacs,And let's not forget physics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Github is a really cool place to learn and commit your codes. You can share your codes here , so that people who are in need of it can directly download or clone it.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+I am going to be active on Github, and I want you to write to me @ ankit.ethics@gmail.com, if you need any help or if you have any doubt, you can also call me @ +91- 7042416393
+We may think that we know so much about everything, but in real, we don't know anything. We should try to be a visionary and look at things with different views, and that's how Imagination works.
+A great man once said, Imagination is more important than knowledge. The man was Sir Albert Einstien
+We should also learn to appreciate others. If we can't appreciate others for their good, then we should do the same to ourselves. Be rational !
 
 - Bulleted
 - List
