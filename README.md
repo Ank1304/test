@@ -9,23 +9,21 @@ We may think that we know so much about everything, but in real, we don't know a
 A great man once said, Imagination is more important than knowledge. The man was Sir Albert Einstien
 We should also learn to appreciate others. If we can't appreciate others for their good, then we should do the same to ourselves. Be rational !
 
-- Bulleted
-- List
+I am going to teach you :
+- JavaScript (Browser Scripting)
+- TypeScript (ECMAScript6 - Browser Scripting)
+- Python
+- React
+- MOOTools
+- jQuery
+- Prototype
+- Ruby on Rails
+For Scripting
 
-1. Numbered
-2. List
+Later we'll move on to more machine specific languages like
+1. Assembly
+2. R
 
-**Bold** and _Italic_ and `Code` text
+ETC..
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ank1304/test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This is my first article right here, I will keep posting more. Next up, we'll create a dynamic page with the help of node, npm and Angular App. We'll also have a look at Electron for creating desktop apps with Angular 
